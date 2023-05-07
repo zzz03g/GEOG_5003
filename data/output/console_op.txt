@@ -1,0 +1,311 @@
+Agent(i=0, x=119, y=172)
+Agent(i=1, x=151, y=190)
+Agent(i=2, x=139, y=151)
+Agent(i=3, x=113, y=192)
+Agent(i=4, x=134, y=147)
+Agent(i=5, x=162, y=110)
+Agent(i=6, x=162, y=169)
+Agent(i=7, x=129, y=118)
+Agent(i=8, x=179, y=141)
+Agent(i=9, x=145, y=119)
+Path exists
+Move and Eat
+Share
+Maximum distance between all agents 94.51454914456292
+Move and Eat
+Share
+Maximum distance between all agents 92.78469701410896
+Move and Eat
+Share
+Maximum distance between all agents 92.78469701410896
+Move and Eat
+Share
+Maximum distance between all agents 91.7877987534291
+Move and Eat
+Share
+Maximum distance between all agents 92.59049627256569
+Move and Eat
+Share
+Maximum distance between all agents 92.59049627256569
+Move and Eat
+Share
+Maximum distance between all agents 94.36630754670864
+Move and Eat
+Share
+Maximum distance between all agents 93.47192091746055
+Move and Eat
+Share
+Maximum distance between all agents 93.47192091746055
+Move and Eat
+Share
+Maximum distance between all agents 93.47192091746055
+Move and Eat
+Share
+Maximum distance between all agents 94.36630754670864
+Move and Eat
+Share
+Maximum distance between all agents 91.67878707749138
+Move and Eat
+Share
+Maximum distance between all agents 92.59049627256569
+Move and Eat
+Share
+Maximum distance between all agents 94.36630754670864
+Move and Eat
+Share
+Maximum distance between all agents 96.15092303249095
+Move and Eat
+Share
+Maximum distance between all agents 93.47192091746055
+Move and Eat
+Share
+Maximum distance between all agents 94.36630754670864
+Move and Eat
+Share
+Maximum distance between all agents 96.15092303249095
+Move and Eat
+Share
+Maximum distance between all agents 96.15092303249095
+Move and Eat
+Share
+Maximum distance between all agents 95.2732911156112
+Move and Eat
+Share
+Maximum distance between all agents 93.47192091746055
+Move and Eat
+Share
+Maximum distance between all agents 92.59049627256569
+Move and Eat
+Share
+Maximum distance between all agents 91.7877987534291
+Move and Eat
+Share
+Maximum distance between all agents 92.59049627256569
+Move and Eat
+Share
+Maximum distance between all agents 91.67878707749138
+Move and Eat
+Share
+Maximum distance between all agents 89.89438247187641
+Move and Eat
+Share
+Maximum distance between all agents 92.59049627256569
+Move and Eat
+Share
+Maximum distance between all agents 90.82400563727631
+Move and Eat
+Share
+Maximum distance between all agents 89.89438247187641
+Move and Eat
+Share
+Maximum distance between all agents 89.89438247187641
+Move and Eat
+Share
+Maximum distance between all agents 88.11923740024082
+Move and Eat
+Share
+Maximum distance between all agents 86.35392289873113
+Move and Eat
+Share
+Maximum distance between all agents 87.32124598286491
+Move and Eat
+Share
+Maximum distance between all agents 90.0499861188218
+Move and Eat
+Share
+Maximum distance between all agents 92.78469701410896
+Move and Eat
+Share
+Maximum distance between all agents 93.81364506296512
+Move and Eat
+Share
+Maximum distance between all agents 94.51454914456292
+Move and Eat
+Share
+Maximum distance between all agents 94.51454914456292
+Move and Eat
+Share
+Maximum distance between all agents 97.24710792614863
+Move and Eat
+Share
+Maximum distance between all agents 98.00510190801293
+Move and Eat
+Share
+Maximum distance between all agents 99.76472322419383
+Move and Eat
+Share
+Maximum distance between all agents 100.62305898749054
+Move and Eat
+Share
+Maximum distance between all agents 100.62305898749054
+Move and Eat
+Share
+Maximum distance between all agents 99.74467404327912
+Move and Eat
+Share
+Maximum distance between all agents 100.62305898749054
+Move and Eat
+Share
+Maximum distance between all agents 99.74467404327912
+Move and Eat
+Share
+Maximum distance between all agents 97.082439194738
+Move and Eat
+Share
+Maximum distance between all agents 97.082439194738
+Move and Eat
+Share
+Maximum distance between all agents 98.89893831583835
+Move and Eat
+Share
+Maximum distance between all agents 97.94386147176351
+Move and Eat
+Share
+Maximum distance between all agents 99.74467404327912
+Move and Eat
+Share
+Maximum distance between all agents 97.94386147176351
+Move and Eat
+Share
+Maximum distance between all agents 97.94386147176351
+Move and Eat
+Share
+Maximum distance between all agents 97.94386147176351
+Move and Eat
+Share
+Maximum distance between all agents 99.74467404327912
+Move and Eat
+Share
+Maximum distance between all agents 99.74467404327912
+Move and Eat
+Share
+Maximum distance between all agents 99.74467404327912
+Move and Eat
+Share
+Maximum distance between all agents 101.55294185792945
+Move and Eat
+Share
+Maximum distance between all agents 102.55242561733974
+Move and Eat
+Share
+Maximum distance between all agents 101.76934705499491
+Move and Eat
+Share
+Maximum distance between all agents 101.76934705499491
+Move and Eat
+Share
+Maximum distance between all agents 103.61949623502326
+Move and Eat
+Share
+Maximum distance between all agents 105.47511554864494
+Move and Eat
+Share
+Maximum distance between all agents 103.61949623502326
+Move and Eat
+Share
+Maximum distance between all agents 103.61949623502326
+Move and Eat
+Share
+Maximum distance between all agents 101.76934705499491
+Move and Eat
+Share
+Maximum distance between all agents 100.72239075796404
+Move and Eat
+Share
+Maximum distance between all agents 101.55294185792945
+Move and Eat
+Share
+Maximum distance between all agents 100.62305898749054
+Move and Eat
+Share
+Maximum distance between all agents 102.41581909060729
+Move and Eat
+Share
+Maximum distance between all agents 104.21612159354233
+Move and Eat
+Share
+Maximum distance between all agents 105.09519494249011
+Move and Eat
+Share
+Maximum distance between all agents 102.41581909060729
+Move and Eat
+Share
+Maximum distance between all agents 102.41581909060729
+Move and Eat
+Share
+Maximum distance between all agents 102.41581909060729
+Move and Eat
+Share
+Maximum distance between all agents 105.09519494249011
+Move and Eat
+Share
+Maximum distance between all agents 105.09519494249011
+Move and Eat
+Share
+Maximum distance between all agents 105.09519494249011
+Move and Eat
+Share
+Maximum distance between all agents 106.88779163215975
+Move and Eat
+Share
+Maximum distance between all agents 106.02358228243375
+Move and Eat
+Share
+Maximum distance between all agents 107.83784122468327
+Move and Eat
+Share
+Maximum distance between all agents 107.83784122468327
+Move and Eat
+Share
+Maximum distance between all agents 107.83784122468327
+Move and Eat
+Share
+Maximum distance between all agents 108.6876257906115
+Move and Eat
+Share
+Maximum distance between all agents 107.83784122468327
+Move and Eat
+Share
+Maximum distance between all agents 106.88779163215975
+Move and Eat
+Share
+Maximum distance between all agents 106.88779163215975
+Move and Eat
+Share
+Maximum distance between all agents 104.21612159354233
+Move and Eat
+Share
+Maximum distance between all agents 105.09519494249011
+Move and Eat
+Share
+Maximum distance between all agents 104.21612159354233
+Move and Eat
+Share
+Maximum distance between all agents 103.31021246711285
+Move and Eat
+Share
+Maximum distance between all agents 106.00471687618433
+Move and Eat
+Share
+Maximum distance between all agents 104.23531071570709
+Move and Eat
+Share
+Maximum distance between all agents 102.47438704378767
+Move and Eat
+Share
+Maximum distance between all agents 101.53324578678651
+Move and Eat
+Share
+Maximum distance between all agents 103.31021246711285
+Move and Eat
+Share
+Maximum distance between all agents 103.31021246711285
+Move and Eat
+Share
+Maximum distance between all agents 103.31021246711285
+Move and Eat
+Share
+Maximum distance between all agents 104.21612159354233
+Move and Eat
+Share
+Maximum distance between all agents 103.36827366266692

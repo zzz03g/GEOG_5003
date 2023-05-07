@@ -1,0 +1,85 @@
+Agent(i=0, x=119, y=172)
+Agent(i=1, x=151, y=190)
+Agent(i=2, x=139, y=151)
+Agent(i=3, x=113, y=192)
+Agent(i=4, x=134, y=147)
+Agent(i=5, x=162, y=110)
+Agent(i=6, x=162, y=169)
+Agent(i=7, x=129, y=118)
+Agent(i=8, x=179, y=141)
+Agent(i=9, x=145, y=119)
+Path exists
+Move and Eat
+Share
+Maximum distance between all agents 95.524865872714
+Move and Eat
+Share
+Maximum distance between all agents 95.524865872714
+Move and Eat
+Share
+Maximum distance between all agents 95.524865872714
+Move and Eat
+Share
+Maximum distance between all agents 95.524865872714
+Move and Eat
+Share
+Maximum distance between all agents 95.524865872714
+Move and Eat
+Share
+Maximum distance between all agents 94.51454914456292
+Move and Eat
+Share
+Maximum distance between all agents 95.524865872714
+Move and Eat
+Share
+Maximum distance between all agents 96.56603957913983
+Move and Eat
+Share
+Maximum distance between all agents 96.56603957913983
+Move and Eat
+Share
+Maximum distance between all agents 95.524865872714
+Move and Eat
+Share
+Maximum distance between all agents 95.524865872714
+Move and Eat
+Share
+Maximum distance between all agents 95.524865872714
+Move and Eat
+Share
+Maximum distance between all agents 95.524865872714
+Move and Eat
+Share
+Maximum distance between all agents 94.51454914456292
+Move and Eat
+Share
+Maximum distance between all agents 95.29428104561154
+Move and Eat
+Share
+Maximum distance between all agents 95.29428104561154
+Move and Eat
+Share
+Maximum distance between all agents 95.29428104561154
+Move and Eat
+Share
+Maximum distance between all agents 96.25487000666512
+Move and Eat
+Share
+Maximum distance between all agents 96.25487000666512
+Move and Eat
+Share
+Maximum distance between all agents 97.06183596038146
+Move and Eat
+Share
+Maximum distance between all agents 95.29428104561154
+Move and Eat
+Share
+Maximum distance between all agents 97.06183596038146
+Move and Eat
+Share
+Maximum distance between all agents 97.06183596038146
+Move and Eat
+Share
+Maximum distance between all agents 97.06183596038146
+Stopping Condition: average agent store =  80.64160309418449
+Iterations Run =  23
